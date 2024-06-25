@@ -1,0 +1,9 @@
+.env
+__pycache__
+processed
+uploads
+test.db
+database.db
+tmp.py
+public
+result.zip
